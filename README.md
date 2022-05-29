@@ -1,4 +1,4 @@
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://anastomosisinida.github.io/About/banner.jpg)
 # Introduction
 Anastomosis is a medical related android app and IOS app.
 
