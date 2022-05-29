@@ -1,11 +1,11 @@
-Introduction
+[Introduction]
 
 Anastomosis is a medical related android app and IOS app.
 
 
 
 Why Anastomosis?
-
+Cancel changes
 We mainly focused on delivering quality contents about diseases, new medicines, new techniques and eradicating miss belief in our community. We designed our app UI in a simple, elegant way, that every user can access to our contents.
 
 
