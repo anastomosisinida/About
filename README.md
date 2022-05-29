@@ -12,10 +12,10 @@ We focused on vast audiences which includes
 - General Public.
 General public is our prime audience to which we have to deliver our contents and information. Not only them, we managed to focus on students also. We provide medicos with latest notifications from their universities, study materials , webinars etc. Doctors are our content creators (Not only them, but now it is restricted to students and doctors).
 
-# How can we believe your contents?
-
-We will build a group of doctors and educators to verify the contents and only verified contents will be published. Now we restricted our creators to doctors and medicos.
-
-# Why we need fund?
-
-Initially we assumed we could finish our project within the limit of Rs.10000. When our requirement are discussed with the developer, the fund for the just raised and its costs minimum 5,00,000 for development and maintenance cost same as that. Thus why we need fun for our project.
+# Our Objectives
+Our objectives are simple
+- We want to deliver quality and geniune informations to our fellow users.
+- Also through anastomosis we are planning of building a community where doctors and general public can interact.
+- Student get a chance to interact and make up their better future through us.
+- We are planning of education material for everyone.
+- We introducing live feature for recording useful events and deliver live contents to all users of anastomosis.
