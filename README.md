@@ -1,4 +1,4 @@
-![](https://anastomosisinida.github.io/About/banner.jpg)
+![](https://anastomosisinida.github.io/About/Web 1920 – 1.jpg)
 # Introduction
 Anastomosis is a medical related android app and IOS app.
 
